@@ -1,3 +1,7 @@
+#### Author: Paul Daniel Pop
+#### NIU: 1607129
+
+
 # Mushroom Classification Project
 
 This repository contains a comprehensive analysis of the **Mushroom Classification Problem**, where the objective is to predict whether a mushroom is **edible** or **poisonous** based on its physical characteristics. The project leverages various machine learning models and techniques to achieve high accuracy.
